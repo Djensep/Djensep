@@ -13,9 +13,9 @@
 На моем GitHub вы можете найти проекты, в которых я использую **React**, **Next.js** и **Redux** для создания мощных веб-приложений. Также я использую **Firebase** для бекенда и хранения данных.
 
 ## 📫 Как связаться со мной
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Ваш профиль LinkedIn](https://www.linkedin.com/in/ваш-профиль)
-- **Telegram:** [Ваш Telegram](https://t.me/ваш-username)
+- **Email:** [Gmail](mailto:leedjensep@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ваш-профиль)
+- **Telegram:** [Telegram](`https://t.me/DjenTonik`)
 
 ## 🌱 В настоящее время изучаю
 - Углубленное использование **TypeScript** в React-приложениях
