@@ -1,30 +1,30 @@
-# Привет! 👋 Меня зовут Джен Сеп
+# Hi! 👋 My name is Jen Sep  
 
-Я фронтенд-разработчик с опытом работы в **JavaScript**, **TypeScript**, **React**, и другими современными технологиями. Разрабатываю адаптивные и высокопроизводительные веб-приложения. 
+I am a frontend developer with experience in **JavaScript**, **TypeScript**, **React**, and other modern technologies. I specialize in building responsive and high-performance web applications.  
 
-## 🛠️ Навыки
-- **Языки:** JavaScript, TypeScript
-- **Фреймворки и библиотеки:** React, Next.js, Redux, Redux-Toolkit
-- **Базы данных:** SQL, Firebase
-- **Инструменты для UI:** HTML, CSS, Sass, Material-UI
-- **Дизайн и прототипирование:** Figma
+## 🛠️ Skills  
+- **Languages:** JavaScript, TypeScript  
+- **Frameworks and Libraries:** React, Next.js, Redux, Redux-Toolkit  
+- **Databases:** SQL, Firebase  
+- **UI Tools:** HTML, CSS, Sass, Material-UI  
+- **Design and Prototyping:** Figma  
 
-## 🚀 О проектах
-На моем GitHub вы можете найти проекты, в которых я использую **React**, **Next.js** и **Redux** для создания мощных веб-приложений. Также я использую **Firebase** для бекенда и хранения данных.
+## 🚀 About My Projects  
+On my GitHub, you can find projects where I use **React**, **Next.js**, and **Redux** to create powerful web applications. I also use **Firebase** for backend and data storage.  
 
-## 📫 Как связаться со мной
-- **Email:** [leedjensep@gmail.com](mailto:leedjensep@gmail.com)
-- **LinkedIn:** [Djensep](https://www.linkedin.com/in/ваш-профиль)
-- **Telegram:** [DjenTonik](`https://t.me/DjenTonik`)
+## 📫 How to Contact Me  
+- **Email:** [leedjensep@gmail.com](mailto:leedjensep@gmail.com)  
+- **LinkedIn:** [Djensep](https://www.linkedin.com/in/your-profile)  
+- **Telegram:** [DjenTonik](https://t.me/DjenTonik)  
 
-## 🌱 В настоящее время изучаю
-- Углубленное использование **TypeScript** в React-приложениях
-- Улучшение навыков в **Next.js**
-- Работа с анимациями и переходами в веб-приложениях
+## 🌱 Currently Learning  
+- Advanced **TypeScript** usage in React applications  
+- Improving skills in **Next.js**  
+- Working with animations and transitions in web applications  
 
-## ⚡ Немного обо мне
-- 🎂 Родился 18 августа 2002 года
-- 💻 Люблю разрабатывать красивые и функциональные интерфейсы
-- 🎨 Увлекаюсь дизайном и люблю работать в **Figma**
+## ⚡ A Bit About Me  
+- 🎂 Born on August 18, 2002  
+- 💻 Love creating beautiful and functional interfaces  
+- 🎨 Passionate about design and enjoy working in **Figma**  
 
-Буду рад вашим звездам ⭐ и вкладу в мои проекты! Давайте создавать что-то крутое вместе!
+I’d be happy to receive your stars ⭐ and contributions to my projects! Let’s build something amazing together!  
