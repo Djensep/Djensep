@@ -14,7 +14,7 @@ On my GitHub, you can find projects where I use **React**, **Next.js**, and **Re
 
 ## 📫 How to Contact Me  
 - **Email:** [leedjensep@gmail.com](mailto:leedjensep@gmail.com)  
-- **LinkedIn:** [Djensep](https://www.linkedin.com/in/your-profile)  
+- **LinkedIn:** [Djensep](https://www.linkedin.com/in/djen-sep-lee-513120313/)  
 - **Telegram:** [DjenTonik](https://t.me/DjenTonik)  
 
 ## 🌱 Currently Learning  
